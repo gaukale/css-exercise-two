@@ -23,11 +23,6 @@ p {
   color: gray;
 }
 
-{
-  background-color: ##f8f8ff;
-  color: #0000FF;
-}
-
 nav {
   background-color: rgba(80,80, 80, 0.6);
   float: left;
@@ -75,5 +70,6 @@ article {
 .container {
   margin: 0 auto;
   width: 50%;
-
 }
+
+a:hover { color:#0070BC; } /* mouse over */
